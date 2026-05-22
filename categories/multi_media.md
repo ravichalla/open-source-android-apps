@@ -6,7 +6,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 
 | App Name | Description | Language | License | ⭐ Stars | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 240 | — |
+| [**A Photo Manager**](https://github.com/k3b/APhotoManager) | Manage local photos with a gallery, geo map, finder, sorter, and EXIF editor. | `Java` | `GPL-3.0` | 241 | — |
 | [**ACEMusicPlayer**](https://github.com/C-Aniruddh/ACEMusicPlayer) | A simple, Material Design music player for the Android platform. | `Java` | `Apache-2.0` | 313 | — |
 | [**ad-free**](https://github.com/abertschi/ad-free) | A proof-of-concept modular audio ad-blocker for Android. | `Kotlin` | `Apache-2.0` | 292 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/ch.abertschi.adfree) |
 | [**AnimeTaste**](https://github.com/daimajia/AnimeTaste) | An app for discovering and watching original animations from around the world. (Archived) | `Java` | `MIT` | 1.6k | — |
@@ -48,7 +48,7 @@ A curated list of open-source players, galleries, clients, and other multi-media
 | [**SoundSpice**](https://github.com/farshed/SoundSpice-mobile) | A lightweight and minimalist music player for Android. | `JavaScript` | `GPL-3.0` | 427 | — |
 | [**spydroid-ipcamera**](https://github.com/fyhertz/spydroid-ipcamera) | An app that streams your phone's camera and microphone to a browser or VLC. | `Java` | `GPL-3.0` | 2.0k | — |
 | [**StickerCamera**](https://github.com/Skykai521/StickerCamera) | A camera application that allows you to add stickers to your photos. | `Java` | `Apache-2.0` | 3.2k | — |
-| [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.5k | — |
+| [**Telecine**](https://github.com/JakeWharton/Telecine) | A simple app for recording full-resolution video of your device's screen. | `Java` | `Apache-2.0` | 2.4k | — |
 | [**Timber**](https://github.com/naman14/Timber) | A beautiful, fully-featured Material Design music player. | `Java` | `GPL-3.0` | 7.1k | — |
 | [**Track My Shows**](https://github.com/chashmeetsingh/TrackMyShows) | A simple app for tracking your favorite TV shows. (Archived) | `Java` | `GPL-3.0` | 11 | — |
 | [**Twire**](https://github.com/Perflyst/Twire) | An open-source, ad-free Twitch browser and stream player for Android. | `Java` | `GPL-3.0` | 5 | [![F-Droid](https://f-droid.org/badge/get-it-on.svg)](https://f-droid.org/packages/com.perflyst.twire) |
