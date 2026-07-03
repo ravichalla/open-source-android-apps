@@ -22,14 +22,14 @@
 ## 🚀 Hot Apps (Stars > 10k)
 | App Name | Description | ⭐ Stars |
 | :--- | :--- | :---: |
-| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 58.9k |
+| [**v2rayNG**](https://github.com/2dust/v2rayNG) | A V2Ray client for Android, supporting Xray and v2fly cores. | 59.0k |
 | [**Termux**](https://github.com/termux/termux-app) | A powerful terminal emulator and Linux environment for Android. | 57.1k |
 | [**Joplin**](https://github.com/laurent22/joplin) | A markdown-based note-taking app with sync and end-to-end encryption. | 55.4k |
 | [**Rocket.Chat**](https://github.com/RocketChat/Rocket.Chat) | A self-hostable, Slack-like online chat platform. | 45.7k |
 | [**NewPipe**](https://github.com/TeamNewPipe/NewPipe) | A lightweight, privacy-friendly YouTube frontend for Android. | 38.9k |
 | [**Shadowsocks**](https://github.com/shadowsocks/shadowsocks-android) | A secure socks5 proxy client, widely used for bypassing network censorship. | 36.7k |
 | [**Barcode Scanner (ZXing)**](https://github.com/zxing/zxing) | The official app for the popular open-source barcode scanning library. | 34.0k |
-| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 30.8k |
+| [**SmartTubeNext**](https://github.com/yuliskov/SmartTube) | An ad-free client for watching YouTube on Android TV boxes, with a built-in updater. | 30.9k |
 | [**Telegram**](https://github.com/DrKLO/Telegram) | The official, open-source Android client for the Telegram messaging service. | 29.5k |
 | [**Signal**](https://github.com/signalapp/Signal-Android) | A private messenger for secure calling and messaging. | 29.0k |
 | [**Mindustry**](https://github.com/Anuken/Mindustry) | A sandbox tower-defense game with resource management. | 28.1k |
@@ -47,6 +47,7 @@
 | [**Aegis Authenticator**](https://github.com/beemdevelopment/Aegis) | A free, secure, and open-source app to manage your 2-step verification tokens. | 12.7k |
 | [**AnkiDroid**](https://github.com/ankidroid/Anki-Android) | A powerful, intelligent flashcard app that uses spaced repetition. | 11.3k |
 | [**RTranslator**](https://github.com/niedev/RTranslator) | The world's first open-source simultaneous translation app. | 10.2k |
+| [**Loop Habit Tracker**](https://github.com/iSoron/uhabits) | An app to help you create and maintain good habits over time. | 10.0k |
 ## 🗂️ Categories
 
 | Category | Description | Count |
