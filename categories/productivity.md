@@ -36,8 +36,8 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**OpenNoteScanner**](https://github.com/allgood/OpenNoteScanner) | An application for scanning and manipulating handwritten notes. | `Kotlin` | `Apache-2.0` | 1.5k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.todobom.opennotescanner) |
 | [**Outlay**](https://github.com/bmelnychuk/outlay) | A simple application to help you track your expenses. (Archived) | `Java` | `Apache-2.0` | 48 | — |
 | [**ownCloud**](https://github.com/owncloud/android) | The official Android client for the self-hosted ownCloud file sync platform. | `Kotlin` | `GPL-2.0` | 4.2k | [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.owncloud.android) |
-| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 8.0k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
-| [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 543 | — |
+| [**PocketPal AI**](https://github.com/a-ghorbani/pocketpal-ai) | An on-device AI assistant powered by small language models (SLMs). | `TypeScript` | `MIT` | 8.1k | [![Download](https://img.shields.io/badge/Download-APK-blue)](https://github.com/a-ghorbani/pocketpal-ai) |
+| [**Quill**](https://github.com/vickychijwani/quill) | A beautiful Android app for managing your Ghost blog. | `Java` | `MIT` | 542 | — |
 | [**Remindly**](https://github.com/blanyal/Remindly) | A simple and user-friendly application for creating reminders. | `Java` | `Apache-2.0` | 575 | — |
 | [**ShutUp!**](https://github.com/RitwickVerma/ShutUp) | An app to automatically silence your phone based on your calendar events. | `Java` | `GPL-3.0` | 20 | — |
 | [**Skiff**](https://github.com/skiff-org/skiff-apps) | A suite of end-to-end encrypted, private email, calendar, and docs apps. | `TypeScript` | `GPL-3.0` | 995 | — |
@@ -50,7 +50,7 @@ A curated list of open-source tools for note-taking, file management, task track
 | [**ToGoZip**](https://github.com/k3b/ToGoZip) | Adds an "Add to Zip" option to Android's share menu. | `Java` | `GPL-3.0` | 65 | — |
 | [**tudounotepad**](https://github.com/geminiwen/tudounotepad) | A simple Notepad application developed using Kotlin. | `Kotlin` | `Apache-2.0` | 108 | — |
 | [**Turbo Editor**](https://github.com/vmihalachi/turbo-editor) | A simple, powerful, and open-source text editor for Android. | `Java` | `GPL-3.0` | 1.4k | — |
-| [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 80 | — |
+| [**VertiKin**](https://github.com/prabhakar267/vertikin) | A platform to automatically detect what a user might be interested in buying. | `Python` | `MIT` | 81 | — |
 
 ---
 
